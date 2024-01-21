@@ -63,6 +63,9 @@ button img{
     margin-right: 10px;
 
 }
+textarea:focus{
+    border: 2px solid #ff994f;
+}
 select{
     flex: 1;
     color: #fff;
